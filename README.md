@@ -1,6 +1,6 @@
 # Oii meu Nome é Lucas Venancio 
 
-- 🔭 Atualmente foacando em front-end 
+- 🔭 Atualmente foacando em front-end mas quero aprender mais sobre back para ser fullstack
 - 🌱 Aprendendo mais sobre Next.js
 - 👯 Estou procurando por um estágio em tecnologia
 - 💬 Me pergunte sobre cinema
