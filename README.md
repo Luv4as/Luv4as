@@ -1,7 +1,7 @@
 # Oii meu Nome é Lucas Venancio 
 
 - 🔭 Atualmente foacando em front-end mas quero aprender mais sobre back para ser fullstack
-- 🌱 Aprendendo mais sobre Next.js
+- 🌱 Aprendendo mais sobre Next.js e Node
 - 👯 Estou procurando por um estágio em tecnologia
 - 💬 Me pergunte sobre cinema
 - 📫 Meus contatos são : venanciolucas310@gmail.com 
@@ -20,7 +20,9 @@
   <img allign="center" alt="nextjs icon" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
   <img allign="center" alt="nextjs icon" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
   <img allign="center" alt="nextjs icon" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-  <img allign="center" alt="nextjs icon" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />       
+  <img allign="center" alt="nextjs icon" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />  
+  <img allign="center" alt="nextjs icon" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
+  <img allign="center" alt="nextjs icon" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />
 <div>
 
 ##
