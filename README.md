@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente foacando em front-end mas quero aprender mais sobre back para ser fullstack
 - 🌱 Aprendendo mais sobre Next.js e Node
-- 👯 Estou procurando por um estágio em tecnologia
+- 👯 Estou procurando por uma vaga de Front-end júnior 
 - 💬 Me pergunte sobre cinema
 - 📫 Meus contatos são : venanciolucas310@gmail.com 
 - 😄 Ele/Dele
