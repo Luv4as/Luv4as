@@ -1,12 +1,11 @@
 # Oii meu Nome é Lucas Venancio 
 
-- 🔭 Atualmente foacando em front-end mas quero aprender mais sobre back para ser fullstack
-- 🌱 Aprendendo mais sobre Next.js e Node
-- 👯 Estou procurando por uma vaga de Front-end júnior 
+- 🔭 Atualmente foacando em desenvolvimento fullstack
+- 👯 Estou procurando por uma vaga de Front-end ou Fullstack júnior 
 - 💬 Me pergunte sobre cinema
 - 📫 Meus contatos são : venanciolucas310@gmail.com 
 - 😄 Ele/Dele
-- ⚡ Fun fact:
+- ⚡ Fun fact: Quase fiz faculdade de cinema
 
 <div style=" display: inline_block">
   <a href='https://github.com/Luv4as'>
